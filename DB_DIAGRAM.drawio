@@ -7,7 +7,7 @@
         <mxCell id="4quyku-vsw03K7XLR6HN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ingredient" vertex="1">
           <mxGeometry height="40" width="80" x="600" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="4quyku-vsw03K7XLR6HN-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="order" vertex="1">
+        <mxCell id="4quyku-vsw03K7XLR6HN-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="orders" vertex="1">
           <mxGeometry height="40" width="80" x="360" y="320" as="geometry" />
         </mxCell>
         <mxCell id="4quyku-vsw03K7XLR6HN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="order_item" vertex="1">
